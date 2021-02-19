@@ -1,4 +1,9 @@
-deff addfunc():#pinto
-	int a=5
-	int b=3
+def addfunc():#pinto
+	a=5
+	b=3
 	return a+b
+
+def subtract(): #Misquith
+	x = 15
+	y = 8
+	return x - y
