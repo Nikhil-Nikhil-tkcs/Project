@@ -7,8 +7,3 @@ def subtract(): #Misquith
 	x = 15
 	y = 8
 	return x - y
-
-def multiply() #Misquith
-	x = 15
-	y = 8
-	return x*y
