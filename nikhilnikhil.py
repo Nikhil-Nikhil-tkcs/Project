@@ -3,7 +3,7 @@ def addfunc():#pinto
 	int b=3
 	return (a+b)
 
-def subtract(): #Misquith
-	int x = 8
-	int y = 15
-	return (y-x)
+def multiply(): #Misquith
+	int x = 15
+	int y = 8
+	return (x*y)
